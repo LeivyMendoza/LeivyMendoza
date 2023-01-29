@@ -13,4 +13,4 @@ Practicing integrity and honesty, among other principles are very important to m
 
 Reach out to me via [LinkedIn](https://www.linkedin.com/in/leivymendoza)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivyMendoza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeivyMendoza&theme=radical&layout=compact)
