@@ -1,2 +1,1 @@
-# leivy-mendoza
-Leivy's Portfolio
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leivymendoza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
