@@ -6,8 +6,9 @@ Practicing integrity and honesty, among other principles are very important to m
 
 🔭 Checkout some fun projects that I recently worked on
 
+[Stock Market Web App - Kotlin](https://github.com/LeivyMendoza/stockmarketapp)<br/>
 [Bank Account - Java](https://github.com/LeivyMendoza/bank-account)<br/>
-[Budget List - Python](https://github.com/LeivyMendoza/python-collections-budget)<br/>
+[Budget List - Python](https://github.com/LeivyMendoza/python-collectios-budget)<br/>
 [Image Processing Server - Node](https://github.com/LeivyMendoza/node-express-image-processing-server)
 
 Reach out to me via [LinkedIn](https://www.linkedin.com/in/leivymendoza)
